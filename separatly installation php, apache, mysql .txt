@@ -1,0 +1,11 @@
+=> After extract apache-server
+	$ httpd -k insatll
+
+=> Check status apache-server
+	$ httpd -t
+
+=> Start apache-server
+	$ httpd -k start
+
+=> Stop apache-server
+	$ httpd -k stop
